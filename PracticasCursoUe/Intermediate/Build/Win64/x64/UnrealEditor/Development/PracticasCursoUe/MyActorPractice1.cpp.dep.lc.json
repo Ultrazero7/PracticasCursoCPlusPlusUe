@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\marco\\pr-cticascursoc-_ue\\practicascursoue\\source\\practicascursoue\\myactorpractice1.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\marco\\pr-cticascursoc-_ue\\practicascursoue\\intermediate\\build\\win64\\x64\\practicascursoueeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\marco\\pr-cticascursoc-_ue\\practicascursoue\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\practicascursoue\\definitions.practicascursoue.h",
+            "c:\\users\\marco\\pr-cticascursoc-_ue\\practicascursoue\\source\\practicascursoue\\myactorpractice1.h",
+            "c:\\users\\marco\\pr-cticascursoc-_ue\\practicascursoue\\intermediate\\build\\win64\\unrealeditor\\inc\\practicascursoue\\uht\\myactorpractice1.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

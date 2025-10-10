@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\marco\\pr-cticascursoc-_ue\\practicascursoue\\intermediate\\build\\win64\\unrealeditor\\inc\\practicascursoue\\uht\\practicascursoue.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\marco\\pr-cticascursoc-_ue\\practicascursoue\\intermediate\\build\\win64\\x64\\practicascursoueeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\marco\\pr-cticascursoc-_ue\\practicascursoue\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\practicascursoue\\definitions.practicascursoue.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

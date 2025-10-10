@@ -25,3 +25,7 @@ void AMyActorPractice1::Tick(float DeltaTime)
 
 }
 
+void AMyActorPractice1::FuncionCaliz()
+{
+}
+

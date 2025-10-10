@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+ // Fill out your copyright notice in the Description page of Project Settings.
 
 #pragma once
 
@@ -22,5 +22,13 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+
+	//Ejemplo de variable de instancia publica
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MyActorTest")
+	float MyFloatVariable;
+
+	//Ejemplo de una funcion publica
+	UFUNCTION(BlueprintCallable, Category = "MyActorTest")
+	void FuncionCaliz();
 
 };

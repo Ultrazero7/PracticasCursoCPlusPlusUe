@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PracticasCursoUe.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Marco\Pr-cticasCursoC-_Ue\PracticasCursoUe\Intermediate\Build\Win64\x64\PracticasCursoUeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\Marco\Pr-cticasCursoC-_Ue\PracticasCursoUe\Intermediate\Build\Win64\x64\UnrealEditor\Development\PracticasCursoUe\MyActorPractice1.gen.cpp.obj"
+"C:\Users\Marco\Pr-cticasCursoC-_Ue\PracticasCursoUe\Intermediate\Build\Win64\x64\UnrealEditor\Development\PracticasCursoUe\PracticasCursoUe.init.gen.cpp.obj"
+"C:\Users\Marco\Pr-cticasCursoC-_Ue\PracticasCursoUe\Intermediate\Build\Win64\x64\UnrealEditor\Development\PracticasCursoUe\MyActorPractice1.cpp.obj"
+"C:\Users\Marco\Pr-cticasCursoC-_Ue\PracticasCursoUe\Intermediate\Build\Win64\x64\UnrealEditor\Development\PracticasCursoUe\PracticasCursoUe.cpp.obj"
+"C:\Users\Marco\Pr-cticasCursoC-_Ue\PracticasCursoUe\Intermediate\Build\Win64\x64\UnrealEditor\Development\PracticasCursoUe\PerModuleInline.gen.cpp.obj"
+"C:\Users\Marco\Pr-cticasCursoC-_Ue\PracticasCursoUe\Intermediate\Build\Win64\x64\UnrealEditor\Development\PracticasCursoUe\Default.rc2.res"
+/OUT:"C:\Users\Marco\Pr-cticasCursoC-_Ue\PracticasCursoUe\Intermediate\Build\Win64\x64\UnrealEditor\Development\PracticasCursoUe\UnrealEditor-PracticasCursoUe.lib"

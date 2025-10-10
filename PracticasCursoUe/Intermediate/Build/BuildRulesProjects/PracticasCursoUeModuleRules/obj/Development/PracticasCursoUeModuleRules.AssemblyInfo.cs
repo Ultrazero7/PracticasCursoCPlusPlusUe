@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticasCursoUeModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9212241af62bf82a655689485833263f5a67ef6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1519fb57b89919c5e06ca9f2993268953af73902")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticasCursoUeModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticasCursoUeModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
