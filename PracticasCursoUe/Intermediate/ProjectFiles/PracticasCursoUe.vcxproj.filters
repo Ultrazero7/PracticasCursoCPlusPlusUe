@@ -48,5 +48,11 @@
     <ClCompile Include="..\..\Source\PracticasCursoUe\PracticasCursoUe.h">
       <Filter>Source\PracticasCursoUe</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\PracticasCursoUe\Vehicle.cpp">
+      <Filter>Source\PracticasCursoUe</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PracticasCursoUe\Vehicle.h">
+      <Filter>Source\PracticasCursoUe</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
