@@ -13,7 +13,7 @@ AMyActorPractice1::AMyActorPractice1()
 	edad = 27;
 	esAlumno = true;
 	nombre = "Marco";
-	//DemostrateFundamentals();
+	DemostrateFundamentals();
 }
 
 // Called when the game starts or when spawned
@@ -30,35 +30,35 @@ void AMyActorPractice1::Tick(float DeltaTime)
 
 }
 
-//void AMyActorPractice1::DemostrateFundamentals()
-//{//Operador Aritmeticos
-//	int32 sum = edad + 30 ;
-//	float product = MyFloatVariable * 2.5f;
-//
-//	//Estructuras de control
-//	if (esAlumno) {
-//		
-//		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Green, TEXT("Es alumno is false"));
-//	}
-//
-//	else {
-//		
-//
-//		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Green, TEXT("Es alumno is true"));
-//	}
-//
-//	//Bucles o Ciclos
-//	for (int32 i = 0; i < 5; i++) {
-//		FString DEbugMessage = FString::Printf(TEXT("loop interation: %d"), i);
-//		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Green, DEbugMessage);
-//	}
-//
-//
-//	int32 count = 0;
-//	while (count < 3) {
-//		FString WhileMessage = FString::Printf(TEXT("While loop iteration: %d"), count);
-//		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Cyan, WhileMessage);
-//		count++;
-//	}
+void AMyActorPractice1::DemostrateFundamentals()
+{//Operador Aritmeticos
+	int32 sum = edad + 30 ;
+	float product = MyFloatVariable * 2.5f;
 
+	//Estructuras de control
+	if (esAlumno) {
+		
+		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Green, TEXT("Es alumno is false"));
+	}
+
+	else {
+		
+
+		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Green, TEXT("Es alumno is true"));
+	}
+
+	//Bucles o Ciclos
+	for (int32 i = 0; i < 5; i++) {
+		FString DEbugMessage = FString::Printf(TEXT("loop interation: %d"), i);
+		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Green, DEbugMessage);
+	}
+
+
+	int32 count = 0;
+	while (count < 3) {
+		FString WhileMessage = FString::Printf(TEXT("While loop iteration: %d"), count);
+		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Cyan, WhileMessage);
+		count++;
+	}
+}
 
