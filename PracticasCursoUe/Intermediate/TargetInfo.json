@@ -1,13 +1,13 @@
 {
 	"Targets": [
 		{
-			"Name": "PracticasCursoUe",
-			"Path": "..\\Source\\PracticasCursoUe.Target.cs",
+			"Name": "EspecializacionCPP",
+			"Path": "..\\Source\\EspecializacionCPP.Target.cs",
 			"Type": "Game"
 		},
 		{
-			"Name": "PracticasCursoUeEditor",
-			"Path": "..\\Source\\PracticasCursoUeEditor.Target.cs",
+			"Name": "EspecializacionCPPEditor",
+			"Path": "..\\Source\\EspecializacionCPPEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

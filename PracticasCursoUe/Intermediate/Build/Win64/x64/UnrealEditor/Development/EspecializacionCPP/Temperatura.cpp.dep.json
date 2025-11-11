@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\marco\\documents\\unreal projects\\especializacioncpp\\source\\especializacioncpp\\temperatura.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\marco\\documents\\unreal projects\\especializacioncpp\\intermediate\\build\\win64\\x64\\especializacioncppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\marco\\documents\\unreal projects\\especializacioncpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\especializacioncpp\\definitions.especializacioncpp.h",
+            "c:\\users\\marco\\documents\\unreal projects\\especializacioncpp\\source\\especializacioncpp\\temperatura.h",
+            "c:\\users\\marco\\documents\\unreal projects\\especializacioncpp\\intermediate\\build\\win64\\unrealeditor\\inc\\especializacioncpp\\uht\\temperatura.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

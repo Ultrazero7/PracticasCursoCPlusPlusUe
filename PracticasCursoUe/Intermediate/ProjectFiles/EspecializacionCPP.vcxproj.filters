@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\EspecializacionCPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EspecializacionCPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EspecializacionCPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\EspecializacionCPP">
+      <UniqueIdentifier>{5D81421E-2230-3048-88B7-B3EE1C3AC783}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\Aeronaves.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\Aeronaves.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\AIClass_NPC.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\AIClass_NPC.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\Biplano.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\Biplano.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\BTTask_FindRandomLocation.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\BTTask_FindRandomLocation.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\Class_NPC.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\Class_NPC.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\EspecializacionCPP\EspecializacionCPP.Build.cs">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\EspecializacionCPP.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\EspecializacionCPP.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\EspecializacionCPPCharacter.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\EspecializacionCPPCharacter.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\EspecializacionCPPGameMode.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\EspecializacionCPPGameMode.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\ModeloAeronave.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\ModeloAeronave.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\MyCharacterInput.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\MyCharacterInput.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\MyPlatformActor2.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\MyPlatformActor2.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\PlatformActor.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\PlatformActor.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\Temperatura.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\Temperatura.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\TipoAeronave.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\TipoAeronave.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\TransformModifierActor.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\TransformModifierActor.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\Vehicle.cpp">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EspecializacionCPP\Vehicle.h">
+      <Filter>Source\EspecializacionCPP</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

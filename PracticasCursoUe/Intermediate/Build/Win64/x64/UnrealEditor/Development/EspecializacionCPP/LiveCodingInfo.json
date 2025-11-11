@@ -1,0 +1,39 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EspecializacionCPP.cpp.obj": [
+			"Aeronaves.gen.cpp.obj",
+			"AIClass_NPC.gen.cpp.obj",
+			"Biplano.gen.cpp.obj",
+			"BTTask_FindRandomLocation.gen.cpp.obj",
+			"Class_NPC.gen.cpp.obj",
+			"EspecializacionCPP.init.gen.cpp.obj",
+			"EspecializacionCPPCharacter.gen.cpp.obj",
+			"EspecializacionCPPGameMode.gen.cpp.obj",
+			"ModeloAeronave.gen.cpp.obj",
+			"MyCharacterInput.gen.cpp.obj",
+			"MyPlatformActor2.gen.cpp.obj",
+			"PlatformActor.gen.cpp.obj",
+			"Temperatura.gen.cpp.obj",
+			"TransformModifierActor.gen.cpp.obj",
+			"Vehicle.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"Aeronaves.cpp.obj",
+			"AIClass_NPC.cpp.obj",
+			"Biplano.cpp.obj",
+			"BTTask_FindRandomLocation.cpp.obj",
+			"Class_NPC.cpp.obj",
+			"EspecializacionCPP.cpp.obj",
+			"EspecializacionCPPCharacter.cpp.obj",
+			"EspecializacionCPPGameMode.cpp.obj",
+			"ModeloAeronave.cpp.obj",
+			"MyCharacterInput.cpp.obj",
+			"MyPlatformActor2.cpp.obj",
+			"PlatformActor.cpp.obj",
+			"Temperatura.cpp.obj",
+			"TipoAeronave.cpp.obj",
+			"TransformModifierActor.cpp.obj",
+			"Vehicle.cpp.obj"
+		]
+	}
+}

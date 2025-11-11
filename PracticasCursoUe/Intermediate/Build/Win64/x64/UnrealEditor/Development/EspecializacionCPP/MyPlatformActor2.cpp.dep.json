@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\marco\\documents\\unreal projects\\especializacioncpp\\source\\especializacioncpp\\myplatformactor2.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\marco\\documents\\unreal projects\\especializacioncpp\\intermediate\\build\\win64\\x64\\especializacioncppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\marco\\documents\\unreal projects\\especializacioncpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\especializacioncpp\\definitions.especializacioncpp.h",
+            "c:\\users\\marco\\documents\\unreal projects\\especializacioncpp\\source\\especializacioncpp\\myplatformactor2.h",
+            "c:\\users\\marco\\documents\\unreal projects\\especializacioncpp\\source\\especializacioncpp\\platformactor.h",
+            "c:\\users\\marco\\documents\\unreal projects\\especializacioncpp\\intermediate\\build\\win64\\unrealeditor\\inc\\especializacioncpp\\uht\\platformactor.generated.h",
+            "c:\\users\\marco\\documents\\unreal projects\\especializacioncpp\\intermediate\\build\\win64\\unrealeditor\\inc\\especializacioncpp\\uht\\myplatformactor2.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

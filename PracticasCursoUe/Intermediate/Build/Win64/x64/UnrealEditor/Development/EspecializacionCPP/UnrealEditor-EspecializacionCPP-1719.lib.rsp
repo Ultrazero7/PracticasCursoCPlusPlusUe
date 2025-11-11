@@ -1,0 +1,31 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EspecializacionCPP-1719.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\EspecializacionCPPEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\Aeronaves.gen.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\Biplano.gen.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\EspecializacionCPP.init.gen.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\EspecializacionCPPCharacter.gen.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\EspecializacionCPPGameMode.gen.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\ModeloAeronave.gen.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\MyPlatformActor2.gen.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\PlatformActor.gen.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\Vehicle.gen.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\Aeronaves.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\Biplano.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\EspecializacionCPP.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\EspecializacionCPPCharacter.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\EspecializacionCPPGameMode.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\ModeloAeronave.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\MyPlatformActor2.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\PlatformActor.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\TipoAeronave.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\Vehicle.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\PerModuleInline.gen.cpp.obj"
+"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\Default.rc2.res"
+/OUT:"C:\Users\Marco\Documents\Unreal Projects\EspecializacionCPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\EspecializacionCPP\UnrealEditor-EspecializacionCPP-1719.lib"
