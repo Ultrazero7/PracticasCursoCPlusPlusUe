@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uHOuMcECg+E=",
+  "dgSpecHash": "GK6ZQ4O6DdA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marco\\Documents\\Unreal Projects\\EspecializacionCPP\\Intermediate\\Build\\BuildRulesProjects\\EspecializacionCPPModuleRules\\EspecializacionCPPModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\Marco\\Pr-cticasCursoC-_Ue\\PracticasCursoUe\\Intermediate\\Build\\BuildRulesProjects\\EspecializacionCPPModuleRules\\EspecializacionCPPModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marco\\.nuget\\packages\\bitfaster.caching\\2.4.1\\bitfaster.caching.2.4.1.nupkg.sha512",
     "C:\\Users\\Marco\\.nuget\\packages\\blake3\\1.1.0\\blake3.1.1.0.nupkg.sha512",
